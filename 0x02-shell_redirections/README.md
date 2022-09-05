@@ -1,1 +1,1 @@
-this folder contains the syntax and command for touring the shell
+all shell directions command are written in this directory
